@@ -9,4 +9,4 @@ Keep in mind I might be missing some stuff occasionally, I'm only human and noti
 
 ## Installation
 * Install Visual Studio Color Theme Editor 2019
-* Import this theme
+* Import the color theme from the file `DarkNDank.vstheme`
